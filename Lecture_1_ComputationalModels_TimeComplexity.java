@@ -1,5 +1,4 @@
 import java.util.*;
-//https://docs.google.com/document/d/1itCGW-LhvI7I80AC-YP5y1fc98Ikl38Vk22VrEKenmA/edit
 // merge sort
 // binary search
 // 2 sum
@@ -33,6 +32,12 @@ public class ThreeSum {
 
         return new int[]{-1, -1, -1}; // If no triplet is found, return {-1, -1, -1}
     }
+
+
+    
+
+
+
 
     public static void main(String[] args) {
         int[] nums = { -1, 0, 1, 2, -1, -4 }; // Initialize the array
