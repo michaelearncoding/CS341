@@ -5,7 +5,7 @@ import java.util.*;
 // 2 sum
 // 3 sum 
 
-public class ThreeSum {
+public class threeSum {
     public static int[] threeSum(int[] nums, int c) {
         Arrays.sort(nums); // Sort the array in ascending order
 
